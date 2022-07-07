@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2272"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   sodipodi:docname="icon_bitchute.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2276" />
+  <sodipodi:namedview
+     id="namedview2274"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="151.32085"
+     inkscape:cy="316.78384"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2278" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2278">
+    <path
+       id="path51939"
+       style="opacity:1;fill:#ef4137;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
+       d="M 256,5.06641 A 250.93294,250.93294 0 0 0 5.0664095,256 250.93294,250.93294 0 0 0 34.808599,373.18359 L 121.94141,302.03516 A 142.05673,142.05673 0 0 1 113.94336,256 142.05673,142.05673 0 0 1 256,113.94336 142.05673,142.05673 0 0 1 328.15039,133.65625 L 415.49414,62.33594 A 250.93294,250.93294 0 0 0 256,5.06641 Z M 506.70117,246.52344 396.61719,276.125 A 142.05673,142.05673 0 0 1 256,398.05664 142.05673,142.05673 0 0 1 144.76367,343.84766 L 34.91797,373.38477 A 250.93294,250.93294 0 0 0 256,506.93359 250.93294,250.93294 0 0 0 506.93359,256 a 250.93294,250.93294 0 0 0 -0.23242,-9.47656 z" />
+    <circle
+       style="opacity:0.380009;fill:#ef4137;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.346518;paint-order:fill markers stroke"
+       id="path51939-3"
+       cx="512.82666"
+       cy="-284.37231"
+       r="141.29254" />
+  </g>
+</svg>
